@@ -9,7 +9,7 @@
 All instructions can be found at [draculatheme.com/visual-studio](https://draculatheme.com/visual-studio).
 
 ## Related
-* [Visual Studio 2012](https://github.com/visual-studio/tree/2012)
+* [Visual Studio 2012](https://github.com/dracula/visual-studio/tree/2012)
 
 ## Team
 
