@@ -1,6 +1,6 @@
-# Dracula for [Visual Studio 2015](http://visualstudio.com)
+# Dracula for [Visual Studio](http://visualstudio.com)
 
-> A dark theme for [Visual Studio 2015](http://visualstudio.com).
+> A dark theme for [Visual Studio](http://visualstudio.com).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/vs.png)
 
