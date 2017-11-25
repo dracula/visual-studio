@@ -65,6 +65,7 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="XML Doc Tag" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00A47262" Name="XML Doc Comment" />
               <Item Background="0x005A4744" BoldFont="No" Foreground="0x02000000" Name="MarkerFormatDefinition/HighlightedReference" />
+              <Item Background="0x00FF00FF" BoldFont="No" Foreground="0x02000000" Name="MarkerFormatDefinition/FindHighlight" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="urlformat" />
               <Item Background="0x00957873" BoldFont="No" Foreground="0x02000000" Name="CurrentLineActiveFormat" />
               <Item Background="0x00E2E2E2" BoldFont="No" Foreground="0x00555555" Name="outlining.square" />
