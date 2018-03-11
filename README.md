@@ -16,7 +16,7 @@ All instructions can be found at [draculatheme.com/visual-studio](https://dracul
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio/graphs/contributors).
 
 [![Tim Zenner](https://avatars2.githubusercontent.com/u/696547?v=3&s=70)](https://github.com/epidemicz) |
---- | ---
+--- |
 [Tim Zenner](https://github.com/epidemicz) |
 
 ## License
