@@ -107,6 +107,18 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="delegate name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="class name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="string - verbatim" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppMacroSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppEnumSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppGlobalVariableSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppLocalVariableSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppParameterSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="CppTypeSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppFunctionSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppMemberFunctionSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppMemberFieldSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppStaticMemberFunctionSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppStaticMemberFieldSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppNamespaceSemanticTokenFormat"/>
             </Items>
           </Category>
           <Category FontIsDefault="Yes" GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}">
