@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Studio](http://visualstudio.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/vs.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
