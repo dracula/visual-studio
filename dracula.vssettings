@@ -119,6 +119,16 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppStaticMemberFunctionSemanticTokenFormat"/>
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppStaticMemberFieldSemanticTokenFormat"/>
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppNamespaceSemanticTokenFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="ScssMixinReferenceFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="ScssMixinDeclarationFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="ScssVariableReferenceFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="ScssVariableDeclarationClassificationFormat"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="CSS String Value"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F993BD" Name="CSS Property Value"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="CSS Property Name"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CSS Selector"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="CSS Keyword"/>
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00A47262" Name="CSS Comment"/>
             </Items>
           </Category>
           <Category FontIsDefault="Yes" GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}">
