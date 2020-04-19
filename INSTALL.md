@@ -14,7 +14,7 @@ The default branch is the latest year of Visual Studio that we support. If you n
 
 **Windows**
 
-2017: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/master.zip) option and unzip them.
+2019/2017: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/master.zip) option and unzip them.
 
 2015: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/2015.zip) option and unzip them.
 
