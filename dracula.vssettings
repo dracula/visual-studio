@@ -2,7 +2,7 @@
 #
 # https://github.com/zenorocha/dracula-theme
 #
-# Copyright 2016, All rights reserved
+# Copyright 2020, All rights reserved
 #
 # Code licensed under the MIT license
 # http://zenorocha.mit-license.org
@@ -19,7 +19,6 @@
     <Category Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" PackageName="Visual Studio Environment Package" RegisteredName="Environment_FontsAndColors" name="Environment_FontsAndColors">
       <PropertyValue name="Version">2</PropertyValue>
       <FontsAndColors Version="2.0">
-        <Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}" />
         <Categories>
           <Category CharSet="1" FontIsDefault="No" FontName="Segoe UI" FontSize="9" GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}">
             <Items>
