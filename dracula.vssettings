@@ -99,6 +99,16 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="xml doc comment - attribute value" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="xml doc comment - attribute quotes" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="xml doc comment - attribute name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="label name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="namespace name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="event name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="property name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="extension method name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="method name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="parameter name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="local name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="constant name" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="enum member name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x006CB8FF" Name="type parameter name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="struct name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="module name" />
@@ -106,6 +116,8 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="enum name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="delegate name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="class name" />
+              <Item Background="0x01000001" BoldFont="No" Foreground="0x00C679FF" Name="keyword - control" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="string - escape character" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="string - verbatim" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppMacroSemanticTokenFormat"/>
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00F2F8F8" Name="CppEnumSemanticTokenFormat"/>
