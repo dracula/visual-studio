@@ -116,7 +116,7 @@
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="enum name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="delegate name" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00FDE98B" Name="class name" />
-              <Item Background="0x01000001" BoldFont="No" Foreground="0x00C679FF" Name="keyword - control" />
+              <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="keyword - control" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x00C679FF" Name="string - escape character" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x008CFAF1" Name="string - verbatim" />
               <Item Background="0x02000000" BoldFont="No" Foreground="0x007BFA50" Name="CppMacroSemanticTokenFormat"/>
