@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/visual-studio
+    git clone https://github.com/dracula/visual-studio
 
 The default branch is the latest year of Visual Studio that we support. If you need to use an older version such as 2012, you need to checkout that branch.
 
-    $ git checkout 2012
+    git checkout 2012
 
 #### Install manually
 
