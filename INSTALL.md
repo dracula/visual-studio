@@ -1,44 +1,56 @@
-### [Visual Studio](https://www.visualstudio.com/)
+### Downloading using Git
 
-#### Install using Git
+If you are a Git user, you can install the theme and keep up to date by cloning the repository:
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+```shell
+git clone https://github.com/dracula/visual-studio
+```
 
-    git clone https://github.com/dracula/visual-studio
+The default branch is the most recent year of Visual Studio (2022) we support. If you need to use an older version like 2019, you will need to checkout that branch.
 
-The default branch is the latest year of Visual Studio that we support. If you need to use an older version such as 2012, you need to checkout that branch.
+```shell
+git checkout 2019
+```
 
-    git checkout 2012
+### Downloading manually
 
-#### Install manually
-
-**Windows**
-
-2019/2017: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/master.zip) option and unzip them.
-
-2015: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/2015.zip) option and unzip them.
-
-2012: Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/2012.zip) option and unzip them.
-
-**Mac**
-
-Download using the [GitHub .zip download](https://github.com/dracula/visual-studio/archive/master.zip) option and unzip them.
-
-#### Activating theme
+You can download the theme [from GitHub](https://github.com/dracula/visual-studio/archive/2022.zip) or [Microsoft's official extension store](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula). But know that in this last option, you will always find support only for the latest version of Visual Studio.
 
 **Windows**
 
-1.  Start Visual Studio
-2.  Go to `Tools -> Import and Export Settings... -> Import selected environment settings`
-3.  \[Choose whether you want to backup existing settings\]
-4.  Click `Browse` and select the .vssettings file
-5.  Click `Finish`
+- Latest/2022: Download the theme [from the Visual Studio Extensions Store (.vsix)](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula).
+- Latest/2022: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2022.zip) and unzip them.
+
+- 2019/2017: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
+- 2015: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2015.zip) and unzip them.
+- 2012: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2012.zip) and unzip them.
 
 **Mac**
 
-1.  Start Visual Studio
-2.  Go to `Preferences -> Text Editor -> Color Theme`
-3.  Click `Add` and then find the unzipped folder and select the .vssettings file
-4.  Click `Open`
-5.  Select the `dracula` theme option to preview it
-6.  Click `Okay` to apply it
+- Download the package [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
+
+### How to install and activate the theme
+
+**Windows**
+
+1. Run the `DraculaTheme.vsix` file;
+2. Select the Visual Studio version you want to install the theme and click `Install`;
+3. With the installation complete, open your Visual Studio;
+4. Navigate to `Tools` -> `Theme` and tick `Dracula Theme`;
+5. Ready! 🚀
+
+**Mac**
+
+1. Start Visual Studio;
+2. Go to `Preferences` -> `Text Editor` -> `Color Theme`;
+3. Click "Add", find the unzipped folder and select the .vssettings file;
+4. Click "Open";
+5. Select the `Dracula Theme` theme option to preview it;
+6. Click "Ok" to apply it;
+7. Ready! 🚀
+
+> If you followed the steps above and could not install it, please [file an issue on GitHub](https://github.com/dracula/visual-studio/issues/new) or browse [our Discord](https://draculatheme.com/discord-invite), where the community can help.
+
+### Visual Studio
+
+If you have questions about Visual Studio, the best place to look for help is on the [official Visual Studio product family documentation](https://docs.microsoft.com/en-gb/visualstudio/).
