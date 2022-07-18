@@ -1,4 +1,6 @@
-### Downloading using Git
+### [Visual Studio](https://www.visualstudio.com/)
+
+#### Downloading using Git
 
 If you are a Git user, you can install the theme and keep up to date by cloning the repository:
 
@@ -12,7 +14,7 @@ The default branch is the most recent year of Visual Studio (2022) we support. I
 git checkout 2019
 ```
 
-### Downloading manually
+#### Downloading manually
 
 You can download the theme [from GitHub](https://github.com/dracula/visual-studio/archive/2022.zip) or [Microsoft's official extension store](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula). But know that in this last option, you will always find support only for the latest version of Visual Studio.
 
@@ -29,7 +31,7 @@ You can download the theme [from GitHub](https://github.com/dracula/visual-studi
 
 - Download the package [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
 
-### How to install and activate the theme
+#### How to install and activate the theme
 
 **Windows**
 
@@ -48,9 +50,3 @@ You can download the theme [from GitHub](https://github.com/dracula/visual-studi
 5. Select the `Dracula Theme` theme option to preview it;
 6. Click "Ok" to apply it;
 7. Ready! 🚀
-
-> If you followed the steps above and could not install it, please [file an issue on GitHub](https://github.com/dracula/visual-studio/issues/new) or browse [our Discord](https://draculatheme.com/discord-invite), where the community can help.
-
-### Visual Studio
-
-If you have questions about Visual Studio, the best place to look for help is on the [official Visual Studio product family documentation](https://docs.microsoft.com/en-gb/visualstudio/).
