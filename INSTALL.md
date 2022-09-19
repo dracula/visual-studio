@@ -1,5 +1,15 @@
 ### [Visual Studio](https://www.visualstudio.com/)
 
+#### Download from [Microsoft's official extension store](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
+
+> The most recommended way 🦇
+
+In this option, you will always find the latest version of the theme for the newest version of Visual Studio.
+
+- [Microsoft's official extension store](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
+
+Below you will see other download options, including different theme versions that support older versions of Visual Studio.
+
 #### Downloading using Git
 
 If you are a Git user, you can install the theme and keep up to date by cloning the repository:
@@ -8,7 +18,7 @@ If you are a Git user, you can install the theme and keep up to date by cloning 
 git clone https://github.com/dracula/visual-studio
 ```
 
-The default branch is the most recent year of Visual Studio (2022) we support. If you need to use an older version like 2019, you will need to checkout that branch.
+The default branch is the most recent year of Visual Studio (2022) we support. If you need to use an older version like 2019, you will need to check out that branch.
 
 ```shell
 git checkout 2019
@@ -16,11 +26,10 @@ git checkout 2019
 
 #### Downloading manually
 
-You can download the theme [from GitHub](https://github.com/dracula/visual-studio/archive/2022.zip) or [Microsoft's official extension store](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula). But know that in this last option, you will always find support only for the latest version of Visual Studio.
+You can download the theme [from GitHub](https://github.com/dracula/visual-studio/archive/2022.zip).
 
 **Windows**
 
-- Latest/2022: Download the theme [from the Visual Studio Extensions Store (.vsix)](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula).
 - Latest/2022: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2022.zip) and unzip them.
 
 - 2019/2017: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
@@ -50,3 +59,11 @@ You can download the theme [from GitHub](https://github.com/dracula/visual-studi
 5. Select the `Dracula Theme` theme option to preview it;
 6. Click "Ok" to apply it;
 7. Ready! 🚀
+
+#### Known Issues
+
+We know both C/C++ languages don't have the tokens to be coloured appropriately in the IDE. And they depend on packages and extensions in both VS and VSCode.
+
+For context, this 🦇 Dracula Theme for VS uses the VSCode theme as a base.
+
+Any suggestions and contributions are welcome. ✨

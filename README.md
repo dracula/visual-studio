@@ -16,9 +16,9 @@ All instructions can be found at [draculatheme.com/visual-studio](https://dracul
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-studio/graphs/contributors).
 
-| [![Tim Zenner](https://avatars2.githubusercontent.com/u/696547?v=3&s=70)](https://github.com/epidemicz) | [![luxonauta](https://avatars3.githubusercontent.com/u/48334856?v=3&s=70)](https://github.com/luxonauta) |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [Tim Zenner](https://github.com/epidemicz)                                                              | [luxonauta](https://github.com/luxonauta)                                                                |
+| [![luxonauta](https://avatars3.githubusercontent.com/u/48334856?v=3&s=70)](https://github.com/luxonauta) |
+| -------------------------------------------------------------------------------------------------------- |
+| [luxonauta](https://github.com/luxonauta)                                                                |
 
 ## Community
 
