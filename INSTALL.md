@@ -14,13 +14,13 @@ Below you will see other download options, including different theme versions th
 
 If you are a Git user, you can install the theme and keep up to date by cloning the repository:
 
-```shell
+```bash
 git clone https://github.com/dracula/visual-studio
 ```
 
 The default branch is the most recent year of Visual Studio (2022) we support. If you need to use an older version like 2019, you will need to check out that branch.
 
-```shell
+```bash
 git checkout 2019
 ```
 
@@ -30,15 +30,15 @@ You can download the theme [from GitHub](https://github.com/dracula/visual-studi
 
 **Windows**
 
-- Latest/2022: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2022.zip) and unzip them.
+- Latest/2022: Download the theme [from GitHub (`.zip`)](https://github.com/dracula/visual-studio/archive/2022.zip) and unzip them.
 
-- 2019/2017: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
-- 2015: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2015.zip) and unzip them.
-- 2012: Download the theme [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2012.zip) and unzip them.
+- 2019/2017: Download the theme [from GitHub (`.zip`)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
+- 2015: Download the theme [from GitHub (`.zip`)](https://github.com/dracula/visual-studio/archive/2015.zip) and unzip them.
+- 2012: Download the theme [from GitHub (`.zip`)](https://github.com/dracula/visual-studio/archive/2012.zip) and unzip them.
 
 **Mac**
 
-- Download the package [from GitHub (.zip)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
+- Download the package [from GitHub (`.zip`)](https://github.com/dracula/visual-studio/archive/2019.zip) and unzip them.
 
 #### How to install and activate the theme
 
